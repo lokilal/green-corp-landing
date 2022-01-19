@@ -45,6 +45,7 @@ button:hover{
 }
 
 .about{
+    position: relative;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -356,4 +357,13 @@ footer{
 .promo__button i{
     font-size: 15px;
     margin-left: 5px;
+}
+
+
+.orb-canvas{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 10000px; 
+    height: 100%;
 }
