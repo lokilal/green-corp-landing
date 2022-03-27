@@ -1,1 +1,1 @@
-# green-corp-landing
+# Лендинг для компании green-corp 
